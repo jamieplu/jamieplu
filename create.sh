@@ -14,5 +14,5 @@ do
 
    #git rm "day_${day}${suffix}.txt"
     git add *
-    git commit --date "May ${day}${suffix}, 2023" -m "create my daily diary ${day}${suffix}"
+    git commit --date "Apr ${day}${suffix}, 2023" -m "create my daily diary ${day}${suffix}"
 done

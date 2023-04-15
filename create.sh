@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for day in {1..5}
+for day in {15..31}
 do
     suffix="th"
     if [[ $day == 1 || $day == 21 || $day == 31 ]]; then
@@ -10,7 +10,7 @@ do
     elif [[ $day == 3 || $day == 23 ]]; then
         suffix="rd"
     fi
-    echo ${day}${suffix}day > "day_${day}${suffix}.txt"
+    echo ${day}${suffix}dy > "day_${day}${suffix}.txt"
 
    #git rm "day_${day}${suffix}.txt"
     git add *

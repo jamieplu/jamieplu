@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for day in {1..25}
+for day in {1..5}
 do
     suffix="th"
     if [[ $day == 1 || $day == 21 || $day == 31 ]]; then

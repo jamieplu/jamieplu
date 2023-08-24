@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning all the things
 - 🌱 I’m currently learning human centered design
 - 💞️ I’m looking to collaborate on developer tooling
-- 📫 How to reach me: find me in figma
+- 📫 How to reach me: find me in figma and sometimes here
 
 <!---
 jamieplu/jamieplu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

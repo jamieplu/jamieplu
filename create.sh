@@ -1,8 +1,8 @@
 #!/bin/bash
 
-for i in {4..10}
+for i in {4..8}
 do
     touch "as-is-blog_$i.md"
     git add *
-    git commit --date "Jun 2$st, 2024" -m "bugfixes $i"
+    git commit --date "Feb 2$ist, 2024" -m "bugfixes $i"
 done

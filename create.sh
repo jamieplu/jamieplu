@@ -10,7 +10,7 @@ do
     elif [[ $day == 3 || $day == 23 ]]; then
         suffix="rd"
     fi
-    cat ${day}${suffix} > "day_${day}${suffix}.txt"
+    echo ${day}${suffix} > "day_${day}${suffix}.txt"
 
    #git rm "day_${day}${suffix}.txt"
     git add *

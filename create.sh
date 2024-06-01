@@ -10,9 +10,9 @@ do
     elif [[ $day == 3 || $day == 23 ]]; then
         suffix="rd"
     fi
-    rm "day_${day}${suffix}.txt"
+    touch "day_${day}${suffix}.txt"
 
-    git rm "day_${day}${suffix}.txt"
+   #git rm "day_${day}${suffix}.txt"
     git add *
     git commit --date "Jun ${day}${suffix}, 2024" -m "create my daily diary ${day}${suffix}"
 done

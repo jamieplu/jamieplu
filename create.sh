@@ -12,6 +12,7 @@ do
     fi
     rm "day_${day}${suffix}.txt"
 
+    git rm "day_${day}${suffix}.txt"
     git add *
     git commit --date "Jun ${day}${suffix}, 2024" -m "create my daily diary ${day}${suffix}"
 done

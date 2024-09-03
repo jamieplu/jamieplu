@@ -3,6 +3,16 @@
 - 🌱 I’m currently learning human centered design
 - 💞️ I’m looking to collaborate on developer tooling
 - 📫 How to reach me: find me in figma and sometimes here
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <!-- Add more badges similarly -->
+</div>
+<!-- <div align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div> -->
 
 <!---
 jamieplu/jamieplu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

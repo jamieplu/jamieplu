@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jamie!
 
-I'm a software engineering intern at Meta, passionate about using technology to solve real-world problems. I'm constantly learning and excited to see where my journey in software engineering takes me.
+I'm a software engineering intern, passionate about using technology to solve real-world problems. I'm constantly learning and excited to see where my journey in software engineering takes me.
 
 ### 🔧 Skills
 

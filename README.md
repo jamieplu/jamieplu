@@ -1,4 +1,25 @@
-- 👋 Hi, I’m @jamieplu
+## Hi there 👋 I'm Jamie!
+
+I'm a software engineering intern at Meta, passionate about using technology to solve real-world problems. I'm constantly learning and excited to see where my journey in software engineering takes me.
+
+### 🔧 Skills
+
+* **Languages:** Python, Java, JavaScript
+* **Frameworks:** React, Node.js
+* **Tools:** Git, GitHub, VS Code
+
+### 🌱 Currently learning
+
+* Machine learning
+* Cloud computing
+
+### 😄 Fun facts
+
+* I love hiking and exploring new places.
+* I'm a big fan of sci-fi movies and books.
+
+Thanks for visiting my profile!
+
 - 👀 I’m interested in learning all the things
 - 🌱 I’m currently learning human centered design
 - 💞️ I’m looking to collaborate on developer tooling
